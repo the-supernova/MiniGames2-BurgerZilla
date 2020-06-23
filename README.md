@@ -1,5 +1,6 @@
 # MiniGames2-BurgerZilla!
 A basic 2-D minigame made with JavaScript and p5.js library
+https://the-supernova.github.io/MiniGames2-BurgerZilla/
 ## Introduction
 Making games in Javascript is cool to see but equally hectic to complete! So this time I came up with learning to make **mini games** using Javascript and an easy to use (yet rarely used) Javascript library p5.js.This library is used for creative coding and making animations easy.
 ## Instructions
