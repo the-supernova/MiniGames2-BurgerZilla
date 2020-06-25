@@ -9,4 +9,5 @@ Making games in Javascript is cool to see but equally hectic to complete! So thi
 * Game ends when you miss a topping
 * To play again,press f5 or just refresh the page
 * Enjoy!
+P.S- This game is void of good design and colors because my sole motive of making it was to learn and implement quickly.
 
